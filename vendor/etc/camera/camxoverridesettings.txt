@@ -1,0 +1,11 @@
+IFEDualClockThreshold=600000000
+enableNCSService=TRUE
+exposeFullSizeForQCFA=TRUE
+multiCameraEnable=TRUE
+dualCamLtmEnable=TRUE
+multiCameraFrameSync=1
+multiCamera3ASync=MultiCamera3ASyncQTI
+enableSensorHWSync=TRUE
+enableSensorFpsMatch=TRUE
+waitAllResultsTimeout=1000
+overrideLogLevels=0x0f

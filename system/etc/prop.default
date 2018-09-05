@@ -1,0 +1,16 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Sun Aug 19 10:59:32 CST 2018
+ro.bootimage.build.date.utc=1534647572
+ro.bootimage.build.fingerprint=Meizu/sdm845/sdm845:8.1.0/OPM1.171019.026/1533779885:user/release-keys
+persist.sys.usb.config=none
+ro.recovery.matrix.ver=VER_20180718_00
